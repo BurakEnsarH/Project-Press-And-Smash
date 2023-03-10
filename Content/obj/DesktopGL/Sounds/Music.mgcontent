@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/burak/source/repos/Miner/Content/Sounds/Music.ogg</SourceFile>
+  <SourceTime>2022-01-30T02:19:23.1037313+03:00</SourceTime>
+  <DestFile>C:/Users/burak/source/repos/Miner/Content/bin/DesktopGL/Sounds/Music.xnb</DestFile>
+  <DestTime>2022-01-30T02:21:21.5598843+03:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2020-08-10T19:17:54+03:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T19:17:54+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/burak/source/repos/Miner/Content/bin/DesktopGL/Sounds/Music.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

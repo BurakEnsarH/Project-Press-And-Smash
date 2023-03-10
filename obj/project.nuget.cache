@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlpgzUj2s2I3LQGBVVOxIV+L43WiOD3mzMsJJuZ1nNMtzMgWpRzcTGNTLBUoCvuh8ySIuG65Ob3JZHFngxlbfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\burak\\source\\repos\\Miner\\Miner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burak\\.nuget\\packages\\comora\\0.5.0\\comora.0.5.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/burak/source/repos/Miner/Content/background.png</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/ball.png</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/Fonts/spaceFont.spritefont</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/Fonts/timerFont.spritefont</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/Player/player.png</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/Player/walkDown.png</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/Player/walkLeft.png</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/Player/walkRight.png</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/Player/walkUp.png</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/skull.png</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/Sounds/blip.wav</File>
+    <File>C:/Users/burak/source/repos/Miner/Content/Sounds/Music.ogg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
